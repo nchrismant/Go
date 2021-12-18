@@ -12,24 +12,24 @@
 - Jouer chacun à votre tour 
 	Déterminer le gagnant à la fin de la partie
 
-## CONÇU AVEC
+## Conçu avec
 - IDE JAVA DEVELOPERS Eclipse
 
-## LIBRAIRIES UTILISÉES 
+## Librairies utilisées 
 - JUnit (junit-4.11.jar)
 - Log4j (log4j-1.2.17.jar)
 
-## AUTEURS
-- AFATCHAWO KOFFI JUNIOR Etudiant L2 INFORMATIQUE GROUPE E
--	DACRUZ MATHIS Etudiant L2 INFORMATIQUE GROUPE E
+## Auteurs
+- 	AFATCHAWO KOFFI JUNIOR Etudiant L2 INFORMATIQUE GROUPE E
 -	CHRIQUI NATHAN Etudiant L2 INFORMATIQUE GROUPE E
+-	DACRUZ MATHIS Etudiant L2 INFORMATIQUE GROUPE E
 
 Cergy Paris Université
 
-## LICENSE
+## License
 -	License Open Source Libre
 
-## FONCTIONNALITÉS
+## Fonctionnalités
 -	Jouer chacun à son tour en déposant une pierre sur le goban
 -	Capturer une pierre ou chaine de pierres d'un adversaire
 -	Jouer contre 2 autres personnes ou contre 1 personne et un bot
@@ -38,6 +38,6 @@ Cergy Paris Université
 -	Utiliser une mega pierre pour eliminer les pierres ennemis alentours
 -	Visualiser son score ainsi que celui des autres joueurs (ou du bot) 
 
-## CREDITS
+## Crédits
 - https://depinfo.u-cergy.fr/~tliu/glp.php
 
