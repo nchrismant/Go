@@ -149,7 +149,7 @@ Le projet utilise **JUnit 4.11** pour tester :
 ## 👥 Auteurs & Licence
 
 - **AFATCHAWO Koffi Junior** — Étudiant L2 Informatique, Cergy Paris Université.
-- **CHRISMANT Nathan** — L2 Informatique, Cergy Paris Université.
-- **DACRUZ Mathis** — L2 Informatique, Cergy Paris Université.
+- **CHRISMANT Nathan** — Étudiant L2 Informatique, Cergy Paris Université.
+- **DACRUZ Mathis** — Étudiant L2 Informatique, Cergy Paris Université.
 
 Projet distribué sous licence **Open Source**.
